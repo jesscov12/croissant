@@ -17,13 +17,14 @@ h1 {
 p {
   text-align: center;
   color: #ffc93c;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 img {
   display: block;
   margin: 0 auto;
+  border-radius: 10px;
 }
 footer {
   text-align: center;
@@ -31,6 +32,7 @@ footer {
 a {
   color: white;
   padding: 12px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 .email-link {
   color: blue;
